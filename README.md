@@ -1,6 +1,5 @@
-# Speech_Command_Recognition
 
-# Problem Description 
+# Project Description 
 The goal of this project is to convert single word speech commands into text. There are a lot of applications for speech recognition today with almost every single device coming in with an inbuilt speech recognition software for instance Alexa, Google home and Siri. I have taken a few speech commands and classified them into text. This serves the purpose of identifying when single word commands are spoken and converting those to text. I have used classification algorithms to classify the words into text classes. 
 
 # Data Description  
